@@ -19,16 +19,16 @@ function Home2() {
                 LET ME <span className="purple"> INTRODUCE </span> MYSELF
               </h1>
               <p className="home-about-body">
-                I am Java Developer with more than 3 years of experience developing java applications.
+                I am Full stack Java Developer with more than 3 years of experience developing java applications.
                 <br />
-                <br />Specialization in Springboot and Microservices along with
+                <br />Specialization in Springboot and Angular along with
                 exposure to Cloud Services.
 
                 <br />
                 <br />
                 My Skill set includes  &nbsp;
                 <i>
-                  <b className="purple">Java, Spring Boot, Hibernate (JPA), Micro-services, Apache Kafka, Mockito, JUnit </b> and
+                  <b className="purple">Java, Spring Boot, Angular, Hibernate, Micro-services, Kafka, Mockito, JUnit </b> and
                   also in areas related to{" "}
                   <b className="purple">
                     AWS.
